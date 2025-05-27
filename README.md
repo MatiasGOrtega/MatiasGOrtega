@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 No estoy trabajando actualmente<br>👯 Estoy buscando colaborar en proyectos de desarrollo frontend, especialmente aquellos relacionados con React, Next.js, o el desarrollo de aplicaciones web.<br>🤝 Estoy buscando ayuda con mejorar mis habilidades en diseño UI/UX y aprender más sobre tecnologías backend como Node.js y Express.<br>🌱 Estoy aprendiendo Tailwind CSS para estilizar aplicaciones de manera eficiente y profundizando en TypeScript para escribir código más robusto y seguro.<br>💬 Pregúntame sobre React, JavaScript, herramientas de desarrollo frontend, y mi experiencia como estudiante de desarrollo web.
+👯 Estoy buscando colaborar en proyectos de desarrollo frontend, especialmente aquellos relacionados con React, Next.js, o el desarrollo de aplicaciones web.<br>🤝 Estoy buscando ayuda con mejorar mis habilidades en diseño UI/UX y aprender más sobre tecnologías backend como Node.js y Express.<br>🌱 Estoy aprendiendo Tailwind CSS para estilizar aplicaciones de manera eficiente y profundizando en TypeScript para escribir código más robusto y seguro.<br>💬 Pregúntame sobre React, JavaScript, herramientas de desarrollo frontend, y mi experiencia como estudiante de desarrollo web.
 
 
 ## 🌐 Socials:
